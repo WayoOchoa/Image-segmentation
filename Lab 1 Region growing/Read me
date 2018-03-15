@@ -1,1 +1,2 @@
-
+Own implementation of a region growing algorithm with test script (Lab 1) along the usage of a mean
+shift implementation made by Yue Wu for comparison of methods usage
